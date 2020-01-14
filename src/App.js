@@ -27,7 +27,7 @@ class App extends Component {
     return (
       <Fragment>
         <Header 
-        titulo="Noticias REACT API" 
+        titulo="Ivan's News" 
         />
         <div className="container white contenedor-noticias">
         <Formulario 
